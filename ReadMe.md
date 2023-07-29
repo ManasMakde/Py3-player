@@ -1,4 +1,4 @@
-# 🎵 Py3Player 🎵
+# 🎵 Py3-Player 🎵
 
 Prerequisites: `pip install pyglet tk Pebble`
 
